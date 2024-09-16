@@ -13,6 +13,6 @@ This repository contains the source code for my personal portfolio, a showcase o
 - HTML5, CSS3, JavaScript
 - Tailwind CSS for utility-first styling
 - Responsive Layouts for mobile and desktop views
-- GitHub Pages for live hosting
+- GitHub Pages, Netlify for live hosting
 
 Feel free to explore the code, clone the repository, and provide feedback. This portfolio is constantly evolving as I work on new projects and enhance my development skills.
